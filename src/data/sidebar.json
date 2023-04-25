@@ -1,0 +1,138 @@
+[
+    {
+        "title": "Device Management",
+        "icon": "bi bi-tools",
+        "childrens": [
+            {
+                "title": "Device Registry",
+                "icon": "bi-house-fill",
+                "path": "/home"
+            },
+            {
+                "title": "Device Groups",
+                "icon": "bi-info-circle-fill",
+                "path": "/about"
+            },
+            {
+                "title": "Device Connectivity",
+                "icon": "bi-phone-fill",
+                "childrens": [
+                    {
+                        "title": "Facebook",
+                        "icon": "bi-facebook"
+                    },
+                    {
+                        "title": "Twitter",
+                        "icon": "bi-twitter"
+                    },
+                    {
+                        "title": "Instagram",
+                        "icon": "bi-instagram"
+                    }
+                ]
+            },
+            {
+                "title": "Device Settings",
+                "icon": "bi-gear-fill"
+            },
+            {
+                "title": "Firmware Updates (OTA)",
+                "icon": "bi-menu-up"
+            }
+        ]
+    },
+    {
+        "title": "Data",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Data Collection"
+                
+            },
+            {
+                "title": "Data Streaming Manager"
+               
+            },
+            {
+                "title": "Data Processing Rules"     
+            }
+        ]
+    },
+    {
+        "title": "Visualization",
+        "icon": "bi-view-list",
+        "childrens": [
+            {
+                "title": "Dashboards",
+                "path": "/search"
+            },
+            {
+                "title": "Data Analytics",
+                "path": "/history"   
+            }
+        ]
+    }, 
+    {
+        "title": "Integrations",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "AWS Lambda Functions"
+            },
+            {
+                "title": "MQTT ",
+                "path": "/register"
+            },
+            {
+                "title": "Third-party APIs",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "Custom Integration Options",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Notifications",
+        "icon": "bi-bell",
+        "childrens": [
+            {
+                "title": "Alert Triggers and Conditions",
+                "path": "/search"
+            },
+            {
+                "title": "Templates and Customization",
+                "path": "/history"   
+            },
+             {
+                "title": "Logs and History"  
+            }
+        ]
+    },
+    {
+        "title": "Roles",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Users",
+        "icon": "bi-people",
+        "path": "/support"
+    },
+    {
+        "title": "Audit Logs",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Security",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    },
+    {
+        "title": "Billing Management",
+        "icon": "bi-currency-euro",
+        "path": "/report-bug"
+    }
+]
