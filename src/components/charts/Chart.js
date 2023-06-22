@@ -19,7 +19,7 @@ export const data = [
 ];
 
 export const options = {
-  title: "Monthly Coffee Production by Country",
+  title: "Smartlauf Dashboard",
   vAxis: { title: "Cups" },
   hAxis: { title: "Month" },
   seriesType: "bars",

@@ -7,7 +7,10 @@ function Layout() {
   return (
     <div
       className="grid grid-nogutter"
-      style={{ height: "100%", width: "100%" }}
+      style={{
+        height: "100%",
+        width: "100%",
+      }}
     >
       <div
         className="flex col-12"
@@ -15,6 +18,9 @@ function Layout() {
           justifyContent: "space-between",
           padding: "10px",
           height: "10%",
+          boxShadow: "rgba(0, 0, 0, 0.09) 0px 3px 12px",
+
+          // backgroundColor: "#f4dbdbe9",
         }}
       >
         <span

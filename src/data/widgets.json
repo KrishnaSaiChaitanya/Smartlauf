@@ -1,0 +1,42 @@
+[
+    {
+       "id": "widget1",
+       "img": "../../images/widget1.gif"
+    },
+    {
+"id": "widget2",
+       "img": "../../images/widget-2.png"
+    },
+    {
+"id": "widget3",
+       "img": "../../images/widget-3.jpg"
+    },
+    {
+"id": "widget4",
+       "img": "../../images/widget-4.gif"
+    },
+     {
+"id": "widget5",
+       "img": "../../images/widget-5.gif"
+    },
+     {
+"id": "widget6",
+       "img": "../../images/widget-6.gif"
+    },
+     {
+"id": "widget7",
+       "img": "../../images/widget-7.gif"
+    },
+    {
+    "id": "widget8",
+       "img": "../../images/widget-8.png"
+    },
+    {
+    "id": "widget9",
+       "img": "../../images/widget-9.gif"
+    },
+     {
+    "id": "widget10",
+       "img": "../../images/widget-10.gif"
+    }
+]

@@ -6,7 +6,7 @@
             {
                 "title": "Device Registry",
                 "icon": "bi-house-fill",
-                "path": "/home"
+                "path": "/deviceManagement/deviceRegistry"
             },
             {
                 "title": "Device Groups",
@@ -46,7 +46,8 @@
         "icon": "bi-person-fill",
         "childrens": [
             {
-                "title": "Data Collection"
+                "title": "Data Collection",
+                "path": "/datacollection"
                 
             },
             {
@@ -64,7 +65,7 @@
         "childrens": [
             {
                 "title": "Dashboards",
-                "path": "/search"
+                "path": "/visualization/dashboardlist"
             },
             {
                 "title": "Data Analytics",
